@@ -14,8 +14,13 @@ weighted sum = 0.15×(sum of assignment grades) + 0.4×(final exam grade)
 The course letter grade is assigned to each student in accordance with the following table:
 
 weighted sum course grade
+
 < 60 F
+
 60 to 69 D
+
 70 to 79 C
+
 80 to 89 B
+
 90 to 100 A
